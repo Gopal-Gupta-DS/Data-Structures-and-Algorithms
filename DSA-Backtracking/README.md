@@ -1,22 +1,34 @@
-# Subsets (Subsequences Problem)
+# 🚀 DSA - Backtracking Problems
 
-## 🧩 Problem Statement
-Given an integer array `nums`, return all possible subsets (the power set).
-
-The solution set must not contain duplicate subsets.
+This repository contains solutions to important Data Structures & Algorithms problems.
 
 ---
 
-## 🧪 Example
+## 📂 Problems Covered
 
-Input:
-nums = [1,2,3]
+### 🔹 Subsets (Backtracking)
+- Generate all subsequences
+- Pattern: Include / Exclude
+- Time Complexity: O(2^n)
 
-Output:
-[[], [1], [2], [3], [1,2], [1,3], [2,3], [1,2,3]]
+📁 Folder: `subsets/`
 
 ---
 
-## 📌 Constraints
-- 0 <= nums.length <= 10
-- -10 <= nums[i] <= 10
+## 🧠 Key Concepts
+- Recursion
+- Backtracking
+- Decision Trees
+- Power Set
+
+---
+
+## 💡 Why This Repo?
+- Interview Preparation
+- Clean & Explained Code
+- Beginner → Advanced
+
+---
+
+## 🔗 Author
+Gopal Gupta
