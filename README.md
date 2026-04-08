@@ -28,8 +28,8 @@ Each problem in this repository includes:
 ---
 
 ## 📁 Repository Structure
-
-'''DSA-Preparation/
+```
+DSA-Preparation/
 │
 ├── Backtracking/
 │ └── Subsets/
@@ -39,7 +39,8 @@ Each problem in this repository includes:
 │
 ├── Arrays/
 ├── Graphs/
-├── DP/'''
+├── DP/
+```
 
 ---
 
