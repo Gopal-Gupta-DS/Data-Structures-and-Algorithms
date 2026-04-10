@@ -30,8 +30,9 @@ We:
 ---
 
 ## 🌳 Recursion Flow
-```
+
 For nums = [5, 9, 4]:
+```mermaid
 graph TD
 
 A["Start: [] , sum=0"]
